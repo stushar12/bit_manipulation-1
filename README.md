@@ -2,7 +2,7 @@
 Check whether given numbers are in power of 2 using bitwise operator.
 
 
-Basically the logic here is if we do and bitwise AND operation(&) of the given number with one less than the number we should always get 0 if the number is in power of 2
+Basically the logic here is if we do  Bitwise AND operation(&) of the given number with one less than the number we should always get 0 if the number is in power of 2
 eg n=4
 binary equivalent of 4(n)=100
 binary equivalent of 3(n-1)=011
